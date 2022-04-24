@@ -22,7 +22,7 @@
 .env.test.local
 .env.production.local
 test.rest
-psql-yelps.session.sql
+psql-yelp.session.sql
 
 
 npm-debug.log*
